@@ -12,7 +12,7 @@ En un mundo rural en el que clima está cambiando, nuestros amigos los animales 
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://user-images.githubusercontent.com/101631686/160558672-6d959bf0-d478-4a29-a96b-93b6db0b5dd7.jpeg)
 
 Nombre: ECOnejo (García (Márquez))
 
