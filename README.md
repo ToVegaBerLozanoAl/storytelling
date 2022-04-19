@@ -25,7 +25,13 @@ ECOnejo se ha despertado hoy con ganas de irse al huerto de Climática a recoger
 ECOnejo va todos los días a trabajar al huerto y luego a ayudar con la panadería de Climática. Su vida es apacible y bastante preciosona, aunque últimamente se han escuchado noticias por la radio de que Elon Oink va a llegar a Mundo Tomate a imponer sus prácticas de contaminación.
 
 ### Conflicto 
-Debido a **su inconsciencia y falta de empatía,** Elon Oink amenaza con cambiar el precioso clima de Mundo Tomate. Hay que llegar hasta él (cosa difícil) y hacerle entrar en razón sobre sus actos maliciosos (cosa imposible, ¿o no?)** 
+Debido a **su inconsciencia y falta de empatía,** Elon Oink amenaza con cambiar el precioso clima de Mundo Tomate. Hay que llegar hasta él (cosa difícil) y hacerle entrar en razón sobre sus actos maliciosos (cosa imposible, ¿o no?)**
+
+### Fichas de Personaje
+![](https://github.com/ToVegaBerLozanoAl/storytelling/blob/f931ae319afeb5d6e6a31db3b075cec3bafc8a62/FICHA_ECOnejo.jpeg)
+![](https://github.com/ToVegaBerLozanoAl/storytelling/blob/f931ae319afeb5d6e6a31db3b075cec3bafc8a62/FICHA_Oink.jpeg)
+![](https://github.com/ToVegaBerLozanoAl/storytelling/blob/f931ae319afeb5d6e6a31db3b075cec3bafc8a62/FICHA_Climatica.jpeg)
+![](https://github.com/ToVegaBerLozanoAl/storytelling/blob/f931ae319afeb5d6e6a31db3b075cec3bafc8a62/FICHA_Erizo.jpeg)
 
 
 ### Productos
@@ -49,7 +55,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Elena
 - :woman: Alberto
 - :woman: Mari 
-- 👩‍🦲: Irene
+- 👩‍🦲 Irene
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
