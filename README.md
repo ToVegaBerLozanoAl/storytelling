@@ -19,13 +19,13 @@ Nombre: ECOnejo (García (Márquez))
 https://econejoadventures.h5p.com/content/1291599535819312417
 
 ### Historia
-
+ECOnejo se ha despertado hoy con ganas de irse al huerto de Climática a recoger espárragos. Por el camino se encuentra con unas nubes de contaminación muy sospechosas que tiene que sortear con su patinete. Unas piruetillas y unas vueltas de campana las puede hacer cualquiera. ¿Pero quién estará generando tal polución?
 
 ### Contexto
-
+ECOnejo va todos los días a trabajar al huerto y luego a ayudar con la panadería de Climática. Su vida es apacible y bastante preciosona, aunque últimamente se han escuchado noticias por la radio de que Elon Oink va a llegar a Mundo Tomate a imponer sus prácticas de contaminación.
 
 ### Conflicto 
-
+Debido a **su inconsciencia y falta de empatía,** Elon Oink amenaza con cambiar el precioso clima de Mundo Tomate. Hay que llegar hasta él (cosa difícil) y hacerle entrar en razón sobre sus actos maliciosos (cosa imposible, ¿o no?)** 
 
 
 ### Productos
