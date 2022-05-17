@@ -42,7 +42,9 @@ Debido a **su inconsciencia y falta de empatía,** Elon Oink amenaza con cambiar
 
 - Storytelling: (enlace) 
 
-- XR:
+- XR: QR: ![](https://github.com/ToVegaBerLozanoAl/storytelling/blob/master/QR.jpeg)
+
+   MARCA: ![](https://github.com/ToVegaBerLozanoAl/storytelling/blob/master/Marca.jpeg)
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
