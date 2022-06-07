@@ -60,6 +60,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Alberto
 - :woman: Mari 
 - 👩‍🦲 Irene
+- :woman: Carlos
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
